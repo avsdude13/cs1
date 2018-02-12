@@ -1,19 +1,11 @@
 # Computer Science 1
 
-
-
 Smaller Projects from the computer science 1 course.
-
 All of the projects are intro level programs demonstrating different functions.
-
-
 
 Program List:
 
-
-
 Simple Arithmetic
-
 This project is a simple Java program that will take three inputs from the user. The first 2 are numbers and the third is a arithmetic symbol +, -, *, /. The program will then calculate the arithmetic and display the result to the console.
 
 Pay
@@ -34,3 +26,6 @@ This is a simple Java program that will complete 4 simple tasks.
 
 Pizza Order
 This is a simple Java program that will allow the user to select the toppings that they want on their pizza as well as size. It will then calculate the total and any discounts. The total pre tax, total tax and total will then be displayed.
+
+Dice Simulator
+This class simulates rolling a pair of dice 10,000 times and counts the number of times doubles of are rolled for each different pair of doubles. 
