@@ -32,3 +32,6 @@ This class simulates rolling a pair of dice 10,000 times and counts the number o
 
 Stats
 This program is for taking the contents of a file and calculating the mean and standard deviation, then returning the answer in a new file Results.txt
+
+Geometry
+This program calculates the area of different shapes using static methods and case switch statements
