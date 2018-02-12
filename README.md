@@ -35,3 +35,6 @@ This program is for taking the contents of a file and calculating the mean and s
 
 Geometry
 This program calculates the area of different shapes using static methods and case switch statements
+
+Television and Television Demo
+This program demonstrates use of two files being used in conjuntion. The television demo controls the tv and the telivision class defines all the methods for the tv
