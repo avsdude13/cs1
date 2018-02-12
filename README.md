@@ -34,3 +34,9 @@ This program calculates the area of different shapes using static methods and ca
 
 Television and Television Demo-
 This program demonstrates use of two files being used in conjuntion. The television demo controls the tv and the telivision class defines all the methods for the tv
+
+Average, Average Driver-
+This program will calculate the average and mean of the 5 values and sort them.
+
+CD, Song-
+This program will create a list of songs and add them to a CD.
