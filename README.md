@@ -29,3 +29,6 @@ This is a simple Java program that will allow the user to select the toppings th
 
 Dice Simulator
 This class simulates rolling a pair of dice 10,000 times and counts the number of times doubles of are rolled for each different pair of doubles. 
+
+Stats
+This program is for taking the contents of a file and calculating the mean and standard deviation, then returning the answer in a new file Results.txt
